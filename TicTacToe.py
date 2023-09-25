@@ -14,7 +14,7 @@ board = ['0', '1', '2', '3', '4', '5', '6', '7', '8']
 player = 'X'
 
 # Displaying which player's turn is next
-pseudoPlayer = "X"
+pseudoPlayer = "0"
 
 # Places that have been filled
 slotsFilled = 0
